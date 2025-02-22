@@ -1,0 +1,12 @@
+{
+  "AOAIEndpoint": "https://openaitrngndepl.openai.azure.com/",
+  "AOAIKey": "f572c7bea2e3460a8f1831d6d2e11c25",
+  "AOAIDeploymentName": "OpenAITrngnDepl",
+  "SearchEndpoint": "https://i3ojcrdrqz4we-search.search.windows.net",
+  "SearchKey": "xwZvwPB9E9llxPJNEuGGzj42nRBIYVB6OSceRsFEd4AzSeBjf34B",
+  "SearchIndex": "resorts",
+  "SpeechKey": "TODO",
+  "SpeechRegion": "TODO",
+  "LanguageEndpoint": "TODO",
+  "LanguageKey": "TODO"
+}
